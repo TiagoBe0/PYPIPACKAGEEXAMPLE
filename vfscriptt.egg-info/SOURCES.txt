@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+economypackage/__init__.py
+economypackage/mathseconomy/__init__.py
+economypackage/mathseconomy/mathsadvancefunction.py
+economypackage/mathseconomy/mymathsUtils.py
+economypackage/utilseconomy/__init__.py
+economypackage/utilseconomy/myeconomyutils.py
+vfscriptt.egg-info/PKG-INFO
+vfscriptt.egg-info/SOURCES.txt
+vfscriptt.egg-info/dependency_links.txt
+vfscriptt.egg-info/requires.txt
+vfscriptt.egg-info/top_level.txt

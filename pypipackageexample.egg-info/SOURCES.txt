@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+economypackage/__init__.py
+economypackage/mathseconomy/__init__.py
+economypackage/mathseconomy/mathsadvancefunction.py
+economypackage/mathseconomy/mymathsUtils.py
+economypackage/utilseconomy/__init__.py
+economypackage/utilseconomy/myeconomyutils.py
+pypipackageexample.egg-info/PKG-INFO
+pypipackageexample.egg-info/SOURCES.txt
+pypipackageexample.egg-info/dependency_links.txt
+pypipackageexample.egg-info/requires.txt
+pypipackageexample.egg-info/top_level.txt
